@@ -1,7 +1,7 @@
 # Revenue-Dashboard
 
 1. Sales Profit Dashboard
-   Sales Performance Dashboard – A dynamic and interactive Excel dashboard designed to track sales performance across years, product categories, and sales channels.
+  - A dynamic and interactive Excel dashboard designed to track sales performance across years, product categories, and sales channels.
 
 2. Description
    The Sales Profit Dashboard provides a detailed view of sales and profit distribution. It highlights total profit by year, revenue by product items, and sales           channel performance, helping business leaders evaluate growth trends and profitability across categories. With interactive slicers for region, country, and sales       representatives, it enables targeted decision-making and performance tracking.
