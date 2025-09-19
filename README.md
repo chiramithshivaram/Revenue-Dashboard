@@ -4,10 +4,10 @@
   - A dynamic and interactive Excel dashboard designed to track sales performance across years, product categories, and sales channels.
 
 2. Description
-   The Sales Profit Dashboard provides a detailed view of sales and profit distribution. It highlights total profit by year, revenue by product items, and sales           channel performance, helping business leaders evaluate growth trends and profitability across categories. With interactive slicers for region, country, and sales       representatives, it enables targeted decision-making and performance tracking.
+  - The Sales Profit Dashboard provides a detailed view of sales and profit distribution. It highlights total profit by year, revenue by product items, and sales       channel performance, helping business leaders evaluate growth trends and profitability across categories. With interactive slicers for region, country, and         sales representatives, it enables targeted decision-making and performance tracking.
 
 3. Tech Stack
-   The dashboard was built using the following tools and technologies:
+  - The dashboard was built using the following tools and technologies:
   - 📊 Power BI Desktop – Primary visualization and reporting platform.
   - ⚙️ Power Query – For data transformation and preparation.
   - 📐 DAX (Data Analysis Expressions) – Used for KPIs, profit measures, and trends.
@@ -15,7 +15,7 @@
   - 📑 Microsoft Excel – Source file containing sales and profit data.
 
 4. Data Source
-   The dataset originated from an Excel file containing historical sales and profit data, which was cleaned, structured, and modeled in Power BI for analysis and      visualization.
+  - The dataset originated from an Excel file containing historical sales and profit data, which was cleaned, structured, and modeled in Power BI for analysis and      visualization.
 
 5. Features
   - Key KPIs: Yearly profit trends (2010–2016), peaking at 106M in 2015.
