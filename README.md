@@ -23,7 +23,3 @@
    Profit comparison across multiple sales channels: Online (336.55M, 51.56%) vs. Offline (316.23M, 48.44%).
 
 6. Screenshot[Dashboard Preview]{}
-
-Region, Country, and Representative filters for targeted insights.
-
-Combination of line charts, bar charts, and donut charts for clear performance analysis.
